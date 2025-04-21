@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi👋 I am Folabi, a software developer, cybersecurity specialist, and ML/AI engineer<br>I have 7+ years in software development, 5+ in Cybersecurity and 4+ In ML/AI<br>I am currently working on my programming language and my personal Linux distro
+Hi👋 I am Folabi, a software developer, cybersecurity specialist, and ML/AI engineer<br>I have 7+ years in software development, 5+ in Cybersecurity and 4+ In ML/AI<br>I am currently working on my programming language and my personal and custom OS 
 
 
 ## 🌐 Socials:
