@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 Folabi Temitope Ayodele
+# 🚀 Oluwatosin Afolabi (Folabi)
 ### Systems Architect | Compiler Developer | AI/ML Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=800&height=60&lines=Building+the+Future%2C+One+Line+at+a+Time;Custom+Programming+Languages+%7C+Operating+Systems+%7C+AI)](https://git.io/typing-svg)
@@ -14,7 +14,7 @@
 ```python
 class SystemsArchitect:
     def __init__(self):
-        self.name = "Folabi Temitope Ayodele"
+        self.name = "Oluwatosin Afolabi (Folabi)  "
         self.role = "Software Engineer & Systems Architect"
         self.location = "🌍 Building Globally"
         self.experience = {
