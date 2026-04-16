@@ -35,12 +35,12 @@ SCAN benchmark evaluation
 |---|---|---|
 | [Genovo Engine](https://github.com/tafolabi009/genovo-engine) | Rust | AAA-tier game engine. 253K+ lines across 26 modules: PBR/deferred/ray tracing renderer, rigid body + cloth + fluid physics, behavior trees + navmesh AI, custom scripting VM, reliable UDP networking. |
 | [TocinLang](https://github.com/tafolabi009/TocinLang) | C++ / LLVM | Systems language targeting LLVM IR. Custom lexer, parser, semantic analyzer. Goroutine-style concurrency, NUMA-aware scheduling, V8 FFI. |
-| [TosinOS](https://github.com/tafolabi009/tosin_rtos) | C / x86 ASM | 32-bit protected-mode monolithic kernel. Preemptive scheduler (16 priority levels), custom paging/heap, VFS, IPC. Sub-20KB. |
-| [EPOCH VCS](https://github.com/tafolabi009/epoch_vcs) | C++ / Rust | Distributed VCS via Merkle DAGs. SIMD-accelerated diff (10× faster than Git), Ed25519 signatures, Zstd delta compression. |
+| [TosinOS](https://github.com/tafolabi009/tosin-rtos) | C / x86 ASM | 32-bit protected-mode monolithic kernel. Preemptive scheduler (16 priority levels), custom paging/heap, VFS, IPC. Sub-20KB. |
+| [EPOCH VCS](https://github.com/tafolabi009/epoch-vcs) | C++ / Rust | Distributed VCS via Merkle DAGs. SIMD-accelerated diff (10× faster than Git), Ed25519 signatures, Zstd delta compression. |
 | [NavierFlow](https://github.com/tafolabi009/navierflow) | Python / Taichi | CFD engine: Navier-Stokes + Lattice Boltzmann solvers. GPU-parallelized. Real-time multi-phase flow visualization. |
 | [Hate](https://github.com/tafolabi009/hate) | Rust | Register-based bytecode VM. NaN-boxed values (8-byte), generational GC, async/await, pattern matching, closures. |
 | [Code Editor](https://github.com/tafolabi009/Code-editor) | C++17 / x86-64 ASM | SIMD-accelerated editor. AVX2/SSE4.2 search at 10GB/s, gap buffer, ImGui UI, <100ms cold start, <50MB RAM. |
-| [Emulator](https://github.com/tafolabi009/genovo_emulator) | C++20 | Cross-platform emulator framework for NES/GB/CHIP-8/x86 BIOS. Micro-op CPU execution, hardware-accelerated video. |
+| [Emulator](https://github.com/tafolabi009/genovo-emulator) | C++20 | Cross-platform emulator framework for NES/GB/CHIP-8/x86 BIOS. Micro-op CPU execution, hardware-accelerated video. |
 
 ---
 
