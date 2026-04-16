@@ -33,6 +33,7 @@ SCAN benchmark evaluation
 
 | Project | Language | What it is |
 |---|---|---|
+| [Genovo Engine](https://github.com/tafolabi009/genovo-engine) | Rust | AAA-tier game engine. 253K+ lines across 26 modules: PBR/deferred/ray tracing renderer, rigid body + cloth + fluid physics, behavior trees + navmesh AI, custom scripting VM, reliable UDP networking. |
 | [TocinLang](https://github.com/tafolabi009/TocinLang) | C++ / LLVM | Systems language targeting LLVM IR. Custom lexer, parser, semantic analyzer. Goroutine-style concurrency, NUMA-aware scheduling, V8 FFI. |
 | [TosinOS](https://github.com/tafolabi009/tosin_rtos) | C / x86 ASM | 32-bit protected-mode monolithic kernel. Preemptive scheduler (16 priority levels), custom paging/heap, VFS, IPC. Sub-20KB. |
 | [EPOCH VCS](https://github.com/tafolabi009/epoch_vcs) | C++ / Rust | Distributed VCS via Merkle DAGs. SIMD-accelerated diff (10× faster than Git), Ed25519 signatures, Zstd delta compression. |
