@@ -19,13 +19,11 @@ Universal approximation proofs · Lyapunov stability analysis
 *Preprint — OpenReview*
 O(n log n) FFT-based architecture · 4–6× parameter efficiency vs transformers
 Gradient stability proofs · Holographic memory encoding
-→ [OpenReview](#REPLACE_WITH_LINK)
 
 **Thermodynamic Manifold Alignment: Physics-Inspired Compositional Reasoning**
 *Preprint — OpenReview*
 Statistical mechanics foundation · Parameterized manifold energy minimization
 SCAN benchmark evaluation
-→ [OpenReview](#REPLACE_WITH_LINK)
 
 ---
 
